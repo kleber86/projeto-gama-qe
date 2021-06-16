@@ -22,5 +22,11 @@
     <li>Eclipse</li>
 </ul>
 
+### Informações para uso do projeto
+> 1. Baixar o arquivo: TesteSelenium.zip
+> 2. Extrair os arquivos
+> 3. No Eclipse: File > Open Projects from File System...
+> 4. Em Import source escolher a opção Directory... 
+> 5. Escolher o diretorio do TesteSelenium em seguida clicar em Finish.
 
 <hr>
