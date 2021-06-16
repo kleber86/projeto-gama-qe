@@ -8,7 +8,7 @@
 </div>
 
 
-### :memo: Módulos
+### :memo: Descrição
 
 ###### Projeto desenvolvido durante a Academia Accenture em Automação em Testes de Software, em parceria com a Gama Academy. Treinamento realizado entre os dias 31/05 à 17/06. Onde foram estudados conceitos de testes de software, metodologias ágeis, java aplicado para automação, JUnit para testes unitários e automação e cucumber para auxiliar o desenvolvimento.
 
